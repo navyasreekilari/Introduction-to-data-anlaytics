@@ -1,0 +1,18 @@
+Data analysis is the process of gathering, cleaning, analyzing and mining data, interpreting results, and reporting the findings. 
+With data analysis we find patterns within data and correlations between different data points. 
+And it is through these patterns and correlations that insights are generated, and conclusions are drawn. 
+Data analysis helps businesses understand their past performance and informs their decision-making for future actions. 
+Using data analysis, businesses can validate a course of action before committing to it. Saving valuable time and resources and also ensuring greater success. 
+They are four primary type sof data analysis:
+--> Descriptive Anlaysis: helps answer questions about what happened over a given period of time by summarizing past data and presenting the findings to stakeholders. 
+                          It helps provide essential insights into past events. 
+-->Diagonstic Analysis: helps answer the question. Why did it happen? It takes the insights from descriptive analytics  to dig deeper to find the cause of the outcome. 
+--> Predictive Analysis: helps answer the question, What will happen next? Historical data and trends are used to predict future outcomes. 
+                          Some of the areas in which businesses apply predictive analysis are risk assessment and sales forecasts.
+                          It's important to note that the purpose of predictive analytics is not. to say what will happen in the future, 
+                          it's objective is to forecast what might happen in the future. 
+                           All predictions are probabilistic in nature. 
+--> Prescripitve Analysis: helps answer the question, What should be done about it? By analyzing past decisions and events, the likelihood of different outcomes. 
+                           Is estimated on the basis of which a course of action is decided. Self-driving cars are a good example of Prescriptive Analytics. 
+                           They analyze the environment to make decisions regarding speed, changing lanes, which route to take, etc. Or airlines automatically adjusting ticket prices based on customer demand.
+                           
